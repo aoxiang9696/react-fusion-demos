@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 // import FusionTable from './../fusiontable'
+// import baiduInput from "../baiduInput";
 import FusionInput from '../fusionInput'
 // import Router from './../../routers'
 function App() {
@@ -9,6 +10,7 @@ function App() {
       {/* <Router /> */}
       {/* <FusionTable /> */}
       <FusionInput />
+      {/* <baiduInput/> */}
     </div>
   );
 }
